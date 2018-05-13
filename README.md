@@ -7,6 +7,9 @@ Model:
 We used keras  InceptionV3 network which is pretrained on imagenet dataset. We removed the top layer of network, added a fc layer with 1024 nodes
 and an output layer with 3 nodes.
 
+Link to trained model:
+https://drive.google.com/open?id=1tw7o5LMoPhBvfe6ztPinupxsLIy4kVUP
+
 ![Inceptionnet_v3](Results/Inceptionnet_V3.png)
 
 Training:
